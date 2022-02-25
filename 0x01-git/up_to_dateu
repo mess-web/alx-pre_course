@@ -1,0 +1,6 @@
+
+touch up_to_date
+git pull
+git push 
+git add .
+git commit -m 
